@@ -1,10 +1,12 @@
 ## Laundry app
 
-Why this app?
+### Why this app?
 This app help laundry shop operation be smooth for both customer and the shop management.
+
 How it help Customer?
 - easily track status and point.
 - communication effectively with laundry shop.
+
 How it help the shop ?
 - communicate to customer visually (status update).
 - help manage customer point
