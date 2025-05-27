@@ -15,10 +15,10 @@ How it help the shop ?
 
 ## Tool and technology ues to create this project
 
-Task management: Notion.
-Design: Figma, fig Jam.
-Front-end: Next.js
-Back-end and database: Convex.
-Auth: Auth kit from WorkOS.
-Image management: Upload thing api.
-address management: Google map api.
+- Task management: Notion.
+- Design: Figma, fig Jam.
+- Front-end: Next.js
+- Back-end and database: Convex.
+- Auth: Auth kit from WorkOS.
+- Image management: Upload thing api.
+- address management: Google map api.
