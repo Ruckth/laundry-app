@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@workos-inc/authkit-nextjs": "^2.3.3",
     "convex": "^1.24.1",
     "next": "15.3.2",
     "react": "^19.0.0",
